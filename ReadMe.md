@@ -1,6 +1,6 @@
 # Project: Code-Quiz
 
-  Deployable Link - > https://Code-Quiz/
+  Deployable Link - > https://bunix25.github.io/Code-Quiz/
 
 
 ## Table of Contents: 
